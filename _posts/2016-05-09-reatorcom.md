@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: South Lansing
-datePublished: '2016-05-09T22:46:25.829Z'
-dateModified: '2016-05-09T22:45:20.943Z'
+datePublished: '2016-05-09T22:47:33.401Z'
+dateModified: '2016-05-09T22:46:31.645Z'
 title: 2819 Greenbelt
 author:
   - name: Caladan Properties
