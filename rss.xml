@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[caladan properties]]></title>
+        <description><![CDATA[caladan properties]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 May 2016 22:24:54 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[5924 Hughes]]></title>
+            <description><![CDATA[<article><h1>5924 Hughes</h1><p>South Lansing, Single Family Ranch (3BR 1 Bath)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b4fb970-8d39-4348-8d4e-0c9955991bc3.jpg"></article>]]></description>
+            <link>undefined5924-hughes/index.html</link>
+            <guid isPermaLink="false">e6db78d2-7fa5-442c-87a2-59ce79b26321</guid>
+            <pubDate>Mon, 09 May 2016 22:24:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
