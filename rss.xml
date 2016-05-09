@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[caladan properties]]></title>
-        <description><![CDATA[caladan properties]]></description>
-        <link>https://thegrid.ai/caladan-properties/</link>
+        <title><![CDATA[Managed Properties]]></title>
+        <description><![CDATA[Managed Properties]]></description>
+        <link>http://caladan.us/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 May 2016 22:34:26 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/caladan-properties/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 May 2016 22:45:33 GMT</lastBuildDate>
+        <atom:link href="http://caladan.us/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Reator.com]]></title>
-            <description><![CDATA[<article><h1>Reator.com</h1><p>2819 Greenbelt</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f19a3b-c500-40a6-997f-9fbba5a57607.jpg"></article>]]></description>
-            <link>https://thegrid.ai/caladan-properties/reatorcom/index.html</link>
+            <title><![CDATA[2819 Greenbelt]]></title>
+            <description><![CDATA[<article><h1>2819 Greenbelt</h1><p>South Lansing</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10f19a3b-c500-40a6-997f-9fbba5a57607.jpg"></article>]]></description>
+            <link>http://caladan.us/reatorcom/index.html</link>
             <guid isPermaLink="false">61a45f81-a2dc-4603-b1d5-e6e0cd18f3f5</guid>
-            <pubDate>Mon, 09 May 2016 22:34:12 GMT</pubDate>
+            <pubDate>Mon, 09 May 2016 22:45:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[5924 Hughes]]></title>
             <description><![CDATA[<article><h1>5924 Hughes</h1><p>South Lansing, Single Family Ranch (3BR 1 Bath)</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b4fb970-8d39-4348-8d4e-0c9955991bc3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/caladan-properties/5924-hughes/index.html</link>
+            <link>http://caladan.us/5924-hughes/index.html</link>
             <guid isPermaLink="false">e6db78d2-7fa5-442c-87a2-59ce79b26321</guid>
             <pubDate>Mon, 09 May 2016 22:24:53 GMT</pubDate>
         </item>
